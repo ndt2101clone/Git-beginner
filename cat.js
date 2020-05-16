@@ -1,4 +1,4 @@
-function Cat(name){
-	this.name=name;
+function Cat(){
+	this.stomache=[];
 }
 module.exports=Cat;
